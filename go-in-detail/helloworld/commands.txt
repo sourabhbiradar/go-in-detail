@@ -1,0 +1,5 @@
+terminal shell commands (cmds)
+
+cd Downloads/helloGO-main
+
+go run helloWorld.go
